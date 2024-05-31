@@ -1,0 +1,4 @@
+Za pokretanje projekta potrebno se pozicionirati unutar direktorija 'SI Projekt' gdje se
+nalaze sve potrebne datoteke te 'main.py' datoteka. Nakon toga otvorite terminal te 
+unutar terminala ukucate naredbu 'python main.py'. Nakon toga, program će se uspješno 
+pokrenuti.
